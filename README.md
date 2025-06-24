@@ -26,5 +26,5 @@ Follow these steps to set up and run the project locally.
 
 First, clone this repository to your local machine:
 ```bash
-git clone [https://github.com/YOUR_GITHUB_USERNAME/email-scheduler-project.git](https://github.com/YOUR_GITHUB_USERNAME/email-scheduler-project.git)
+git clone https://github.com/guruneela385/email-scheduler-project.git
 cd email-scheduler-project
